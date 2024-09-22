@@ -1,0 +1,310 @@
+.Video1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.contenedor {
+  width: 100%; /* Porcentaje del ancho de la pantalla */
+  max-width: 1250px; /* Ancho máximo para pantallas grandes */
+  margin: 0 auto; /* Centrar el contenido en el contenedor */
+  transform: matrix(1.535,0,0,1.58,0,270);
+  overflow: hidden;
+}
+.video-team-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .video-team-video-team {
+    width: 100%;
+    height: 596px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(116, 153, 242, 1);
+  }
+  .video-team-rectangle60 {
+    top: 548px;
+    left: 0px;
+    width: 1264px;
+    height: 48px;
+    position: absolute;
+  }
+  .video-team-line12 {
+    top: 548px;
+    left: 0px;
+    width: 1264px;
+    height: 1px;
+    position: absolute;
+  }
+  .video-team-text {
+    top: 557px;
+    left: 406px;
+    color: rgba(255, 255, 255, 1);
+    width: 452px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .video-team-text02 {
+    top: 574px;
+    left: 406px;
+    color: rgba(255, 255, 255, 1);
+    width: 452px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .video-team-line14 {
+    top: 59px;
+    left: 0px;
+    width: 1264px;
+    height: 1px;
+    position: absolute;
+  }
+  .video-team-text04 {
+    top: 17px;
+    left: 15px;
+    color: rgba(255, 255, 255, 1);
+    width: 191px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .video-team-frameiconprofilecircle {
+    top: 6px;
+    left: 1192px;
+    width: 52px;
+    height: 44.999610900878906px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .video-team-group {
+    top: 0px;
+    left: 0px;
+    width: 52px;
+    height: 44.999610900878906px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .video-team-vector {
+    top: 0px;
+    left: 0px;
+    width: 52px;
+    height: 45px;
+    opacity: 0.40;
+    position: absolute;
+  }
+  .video-team-vector1 {
+    top: 11.091530799865723px;
+    left: 16.25px;
+    width: 19px;
+    height: 17px;
+    position: absolute;
+  }
+  .video-team-vector2 {
+    top: 30.611238479614258px;
+    left: 8.373827934265137px;
+    width: 35px;
+    height: 14px;
+    position: absolute;
+  }
+  .video-team-image9 {
+    top: 4px;
+    left: 8px;
+    width: 48px;
+    height: 47px;
+    position: absolute;
+  }
+  .video-team-navlink {
+    display: contents;
+  }
+  .video-team-group96 {
+    top: 17px;
+    left: 734px;
+    width: 191px;
+    height: 24px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    text-decoration: none;
+  }
+  .video-team-rectangle13 {
+    top: 0px;
+    left: 26px;
+    width: 136px;
+    height: 24px;
+    position: absolute;
+    border-radius: 9px;
+  }
+  .video-team-text06 {
+    top: 3px;
+    color: rgba(255, 255, 255, 1);
+    width: 191px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .video-team-navlink1 {
+    display: contents;
+  }
+  .video-team-group97 {
+    top: 17px;
+    left: 641px;
+    width: 119px;
+    height: 24px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    text-decoration: none;
+  }
+  .video-team-rectangle131 {
+    top: 0px;
+    left: 16.19890594482422px;
+    width: 85px;
+    height: 24px;
+    position: absolute;
+    border-radius: 9px;
+  }
+  .video-team-text08 {
+    top: 3px;
+    color: rgba(255, 255, 255, 1);
+    width: 119px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .video-team-navlink2 {
+    display: contents;
+  }
+  .video-team-group98 {
+    top: 17px;
+    left: 881px;
+    width: 191px;
+    height: 24px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    text-decoration: none;
+  }
+  .video-team-rectangle132 {
+    top: 0px;
+    left: 26px;
+    width: 136px;
+    height: 24px;
+    position: absolute;
+    border-radius: 9px;
+  }
+  .video-team-text10 {
+    top: 3px;
+    color: rgba(255, 255, 255, 1);
+    width: 191px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .video-team-group99 {
+    top: 17px;
+    left: 1017px;
+    width: 191px;
+    height: 24px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .video-team-rectangle133 {
+    top: 0px;
+    left: 41px;
+    width: 111px;
+    height: 24px;
+    position: absolute;
+    border-radius: 9px;
+  }
+  .video-team-text12 {
+    top: 3px;
+    color: rgba(255, 255, 255, 1);
+    width: 191px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .video-team-text14 {
+    top: 108px;
+    left: 417px;
+    color: rgba(255, 255, 255, 1);
+    width: 449px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
